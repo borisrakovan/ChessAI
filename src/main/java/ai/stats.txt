@@ -1,0 +1,27 @@
+6 plies, std Queen's gambit w/o tt
+Alphabeta returned in 7 seconds
+3536901 nodes.
+Alphabeta returned in 6 seconds
+2842850 nodes.
+Alphabeta returned in 6 seconds
+2687023 nodes.
+Alphabeta returned in 8 seconds
+4253134 nodes.
+Alphabeta returned in 14 seconds
+6513300 nodes.
+Alphabeta returned in 19 seconds
+9315151 nodes.
+
+5 plies w/o anything
+Alphabeta returned in 2 seconds
+279139 nodes evaluated.
+Alphabeta returned in 2 seconds
+334942 nodes evaluated.
+Alphabeta returned in 6 seconds
+828395 nodes evaluated.
+Alphabeta returned in 3 seconds
+469984 nodes evaluated.
+Alphabeta returned in 8 seconds
+1237718 nodes evaluated.
+Alphabeta returned in 5 seconds
+883018 nodes evaluated.
